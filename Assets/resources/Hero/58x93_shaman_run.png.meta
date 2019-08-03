@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 3a7cca23b672bf14b9726da6668af17b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 850923013955689895
+    second: 58x93_shaman_run_0
+  - first:
+      213: 5619538995690347516
+    second: 58x93_shaman_run_1
+  - first:
+      213: 3267501569491205893
+    second: 58x93_shaman_run_2
+  - first:
+      213: -4607633717694964572
+    second: 58x93_shaman_run_3
+  - first:
+      213: 2718327010524750518
+    second: 58x93_shaman_run_4
+  - first:
+      213: 4173139068666309064
+    second: 58x93_shaman_run_5
+  - first:
+      213: -7092874310166764127
+    second: 58x93_shaman_run_6
+  - first:
+      213: 4350922103405748703
+    second: 58x93_shaman_run_7
+  - first:
+      213: -1501081528372300506
+    second: 58x93_shaman_run_8
+  - first:
+      213: 5850450420410884572
+    second: 58x93_shaman_run_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 58x93_shaman_run_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 101
+        width: 39
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e818e45e0d1db43816272354f8d068
+      internalID: 850923013955689895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58x93_shaman_run_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 101
+        width: 47
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ca26c4e2660494fa8fb9784bd9e1e3
+      internalID: 5619538995690347516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58x93_shaman_run_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 108
+        width: 51
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e96cd8f4f056d940a96fd68cf75f137
+      internalID: 3267501569491205893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58x93_shaman_run_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 112
+        width: 52
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d23b886245456d41ab8198ecd3f782f
+      internalID: -4607633717694964572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58x93_shaman_run_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 101
+        width: 39
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0611060e49b0cea468c5c70c32df8aae
+      internalID: 2718327010524750518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58x93_shaman_run_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 101
+        width: 39
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cbe5a16289a8945ba1d5ae2514665a
+      internalID: 4173139068666309064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58x93_shaman_run_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 101
+        width: 45
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622c3d9ec153a7f42883270889458c0f
+      internalID: -7092874310166764127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58x93_shaman_run_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 107
+        width: 55
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbabf55a78835247854abd0fc8ec378
+      internalID: 4350922103405748703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58x93_shaman_run_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 56
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2046c492325497d4a98740bb64d58e64
+      internalID: -1501081528372300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58x93_shaman_run_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1
+        width: 43
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5de77051f027a4f9a4b2fd2f4536b0
+      internalID: 5850450420410884572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4255eeeda063d8b48a1bfbf758422345
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
