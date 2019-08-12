@@ -43,9 +43,6 @@ public class Background : MonoBehaviour
 
 
         offset = position_X * speed;
-
-
-
         MyRenderer.material.mainTextureOffset = new Vector2(offset, 0);
     }
 }

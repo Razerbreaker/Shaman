@@ -138,7 +138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cedbff99169fb2949bd98d982fed3a5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemy: {fileID: 5998088838428736720}
+  enemy: {fileID: 0}
 --- !u!114 &8191704996423534963
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -355,6 +355,7 @@ SpriteRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -391,18 +392,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFacingRight: 1
-  groundCheck: {fileID: 5503628490119066342}
-  isGrounded: 1
+  isGrounded: 0
   groundPoints:
   - {fileID: 4335544149466998731}
   - {fileID: 5503628490119066342}
   - {fileID: 5086067128292022285}
-  groundRadius: 0.1
+  groundRadius: 0.3
   whatIsGround:
     serializedVersion: 2
     m_Bits: 256
-  health: 100
-  moveSpeed: 4
+  health: 20
+  moveSpeed: 5
   canAttack: 0
 --- !u!50 &8302033125274622598
 Rigidbody2D:
